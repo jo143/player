@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class fact
+class fact1
 {
     public static void main(String a[])
     {
